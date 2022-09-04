@@ -1,0 +1,47 @@
+Azure 104 Certification
+----------------------------------------------------------
+Path to become Azure Administrator
+1.Azure basic fundamentals 
+2.basic concepts
+---------------------------------------------------------------------
+Azure roadmap:
+Fundamentals                            Associate                     Expert
+                                                                        Solution Architect  Expert( Az-303,AZ-304)==AZ 305            
+Azure Fundamentals(AZ-900)              Administrator(AZ-104)            Devops Engineer(Az-400)
+                                        Developer(Az-204)
+ 
+                                       Data Engineer(DP 201)
+
+--------------------------------------------------------------------------------------------------------
+Azure Vs AWS vs GCP Associate Difficulty
+--->Azure is 2x more difficult than AWs
+---->Azure is 3x more difficult than GCP
+------------------------------------------------------------------------------------------------------------
+Reason to choose Azure Administrator:
+-->Excellent career Opportunity because more than 3 lac 65 thousand compnies sre adopting this.
+--------------------------------------------------------------------------------------------------------------
+Roles Azure Administrator:
+1.involves running virtual machine on the cloud
+2.to manage storage solution
+3.For securing data against un authorized access as well as backing up the data
+4.Balancing workload and deploying them
+5.working in a combined windows nd unix software environment.
+
+
+------------------------------------------------------------------------------------------------------------
+Certification needed for job in Azure Administrator
+Microsoft Certified Azure Administrator Associate Certification Exam AZ-104
+--------------------------------------------------------------------------------
+Abilities tested in certification
+
+1.Mangaement of Azure Supscription & resource............................... 15-20%................Module 1
+2.Implementation & mangement of storage solution.........................15-20%...........Module 2,3
+3.Deployig nd managing VMS.....................................20-25%.........Module 4,5
+4.Configuration and management of virtual network........25-30%..........module 6,7
+5.indentity management...............10-15%......module 8,9
+..................................................................................................................
+
+cost of exam---->$165 USD
+                  -->rs. 4800 INR
+-----------------------------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
